@@ -13,5 +13,6 @@ The Laravel Library Management is an example project that demonstrates how to de
 - **Admin** can add/remove librarian and has authority to approve or reject collection update requested by the librarian.
 - **Librarian** can manage library inventory (Create, Read, Update, Delete).
 
-## Contact
-If you have any questions or issues with this project, please contact Aaron Kongdoh at abenedict01@student.ciputra.ac.id.
+## Credits
+Credits to https://github.com/trfyrt
+
